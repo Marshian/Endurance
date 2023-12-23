@@ -1,11 +1,4 @@
-# Bevy GitHub CI Template
-
-This repo show how to set up CI on a GitHub project for Bevy.
-
-It creates two workflows:
-
-* [CI](#CI)
-* [Release](#Release)
+# Endurance Bevy GitHub CI Project
 
 ## CI
 
@@ -81,21 +74,12 @@ Once that is done, any tag pushed to GitHub will trigger an itch.io release and 
 
 ## License
 
-Licensed under either of
+Licensed under 
 
-* Apache License, Version 2.0
-   ([LICENSE-APACHE-2.0](LICENSE-Apache-2.0) or <http://www.apache.org/licenses/LICENSE-2.0>)
 * MIT License
    ([LICENSE-MIT](LICENSE-MIT) or <http://opensource.org/licenses/MIT>)
-* CC0-1.0 License
-   ([LICENSE-CC0-1.0](LICENSE-CC0-1.0) or <https://creativecommons.org/publicdomain/zero/1.0/legalcode>)
-
-at your option.
-
-The Ducky sprite is CC-0 licensed by [Caz Creates Games](https://caz-creates-games.itch.io/ducky-2).
 
 ## Contribution
 
-Unless you explicitly state otherwise, any contribution intentionally submitted
-for inclusion in the work by you, as defined in the Apache-2.0 license, shall be
-triple licensed as above, without any additional terms or conditions.
+Any contribution intentionally submitted for inclusion in this repository shall be
+licensed under the MIT license as above, without any additional terms or conditions.
